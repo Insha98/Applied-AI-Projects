@@ -1,4 +1,4 @@
-     # 🎓 AI & Python Intern Portfolio
+     # 🎓 AI  Intern Portfolio
 ### 4-Week Intensive Program: Fundamentals of Mathematics and Programming for AI
 
 This repository contains my technical work, mathematical implementations, and data science projects completed during my internship. The program followed a rigorous path from the mathematical foundations of AI to the execution of a Machine Learning capstone project.
