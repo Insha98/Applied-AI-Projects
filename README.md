@@ -15,7 +15,8 @@ This repository contains my technical work, mathematical implementations, and da
 
 
 
-<img width="449" height="234" alt="image" src="https://github.com/user-attachments/assets/1bdd2e87-0649-4533-a9d2-07cba754ca60" />
+<img width="543" height="410" alt="image" src="https://github.com/user-attachments/assets/89923aa1-d179-4334-b1d1-7714605f4ad3" />
+
 
 
 
