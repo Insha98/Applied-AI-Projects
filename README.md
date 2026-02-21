@@ -5,7 +5,7 @@ This repository contains my technical work, mathematical implementations, and da
 
 ---
 
-## 🚀 Featured Project: Student Score Predictor
+## 🚀 Phase 4: Featured Project - Student Score Predictor
 **File:** `Student_Score_Predictor.ipynb`
 
 * **Objective:** Formulated a predictive model to analyze and forecast student academic performance.
