@@ -15,7 +15,8 @@ This repository contains my technical work, mathematical implementations, and da
 
 
 
-[Image of linear regression best fit line graph]
+<img width="449" height="234" alt="image" src="https://github.com/user-attachments/assets/1bdd2e87-0649-4533-a9d2-07cba754ca60" />
+
 
 
 ---
