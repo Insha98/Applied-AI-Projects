@@ -16,6 +16,8 @@ The goal of this project was to build a binary classifier capable of detecting t
 
 * **Model Accuracy:** Successfully achieved a **~98% accuracy rate**.
 * **Algorithm:** Logistic Regression optimized with feature scaling.
+* <img width="686" height="423" alt="image" src="https://github.com/user-attachments/assets/ac884fe8-194c-41b7-9a9b-4885e48e1146" />
+
 
 ### 🛠️ Key Technical Features
 * **Clinical Evaluation:** Implemented a **Confusion Matrix** to ensure high reliability. In a medical context, minimizing "False Negatives" (missing a cancer case) is critical, and this model shows high sensitivity.
