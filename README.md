@@ -4,6 +4,31 @@
 This repository contains my technical work, mathematical implementations, and data science projects completed during my internship. The program followed a rigorous path from the mathematical foundations of AI to the execution of a Machine Learning capstone project.
 
 ---
+## 🏆 Independent Capstone: Clinical Healthcare Diagnostic System
+**File:** `Healthcare_AI_Capstone.ipynb`  
+**Status:** Post-Internship Graduation Project
+
+After completing the 4-week intensive program, I developed this diagnostic tool to apply my cumulative knowledge of Python, Data Science, and Machine Learning. 
+
+
+
+### 🎯 Project Overview
+The goal of this project was to build a binary classifier capable of detecting tumor malignancy with medical-grade precision using the Wisconsin Breast Cancer dataset.
+
+* **Model Accuracy:** Successfully achieved a **~98% accuracy rate**.
+* **Algorithm:** Logistic Regression optimized with feature scaling.
+
+### 🛠️ Key Technical Features
+* **Clinical Evaluation:** Implemented a **Confusion Matrix** to ensure high reliability. In a medical context, minimizing "False Negatives" (missing a cancer case) is critical, and this model shows high sensitivity.
+
+
+* **Explainable AI:** Plotted **Feature Importance** to identify that "Mean Concave Points" and "Texture" are the strongest biological indicators of malignancy.
+
+
+* **Object-Oriented Design:** Wrapped the prediction logic in a modular `DiagnosticTrainer` class for clean, reusable, and warning-free code.
+
+---
+
 
 ## 🚀 Phase 4: Featured Project - Student Score Predictor
 **File:** `Student_Score_Predictor.ipynb`
