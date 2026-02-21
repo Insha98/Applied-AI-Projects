@@ -6,7 +6,6 @@ This repository contains my technical work, mathematical implementations, and da
 ---
 ## 🏆 Independent Capstone: Clinical Healthcare Diagnostic System
 **File:** `Healthcare_AI_Capstone.ipynb`  
-**Status:** Post-Internship Graduation Project
 
 After completing the 4-week intensive program, I developed this diagnostic tool to apply my cumulative knowledge of Python, Data Science, and Machine Learning. 
 
