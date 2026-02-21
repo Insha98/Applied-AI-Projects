@@ -70,4 +70,4 @@ The goal of this project was to build a binary classifier capable of detecting t
 ## 💻 Tech Stack
 * **Languages:** Python
 * **Libraries:** NumPy, Pandas, Matplotlib, Scikit-Learn
-* **Tools:** Google colab,Jupyter Notebooks
+* **Tools:** Google Colab,Jupyter Notebooks
